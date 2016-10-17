@@ -1,8 +1,8 @@
 ## 修改2个example文件
 #### example1的图片结果为：
-![example1](https://cl.ly/2z0R2I3D1S0s/example1.png)
+![example1](https://cl.ly/2z0R2I3D1S0s/Example1.png)
 #### example2d的图片结果为：
-![example1](https://cl.ly/2z0R2I3D1S0s/example2.png)
+![example1](https://cl.ly/2z0R2I3D1S0s/Example2.png)
 ### 修改过程
 其实非常简单， example2的修改就是把里面values的值从3改成2，而example1的修改就是把其中ixi改成ixixi。
 ### 实验体会
