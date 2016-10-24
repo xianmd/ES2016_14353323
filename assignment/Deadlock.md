@@ -1,5 +1,5 @@
 ####死锁的截图：
-![deadlock]("https://github.com/xianmd/ES2016_14353323/blob/master/Deadlock.png")
+![deadlock](https://github.com/xianmd/ES2016_14353323/blob/master/Deadlock.png)
 ####死锁的条件：
 互斥条件：一个资源每次只能被一个进程使用
 请求与保持条件：一个进程因请求资源而阻塞时，对已获得的资源保持不放
